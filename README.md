@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Molisha-agarwal/Leetcode/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/Molisha-agarwal/Leetcode/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/Molisha-agarwal/Leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Molisha-agarwal/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Molisha-agarwal/Leetcode/tree/master/0118-pascals-triangle) |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/Molisha-agarwal/Leetcode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Molisha-agarwal/Leetcode/tree/master/0152-maximum-product-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Molisha-agarwal/Leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
