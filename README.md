@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Molisha-agarwal/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Molisha-agarwal/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Molisha-agarwal/Leetcode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Molisha-agarwal/Leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Molisha-agarwal/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Molisha-agarwal/Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Molisha-agarwal/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -60,4 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Molisha-agarwal/Leetcode/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Molisha-agarwal/Leetcode/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Molisha-agarwal/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
