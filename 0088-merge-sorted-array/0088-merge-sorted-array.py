@@ -1,31 +1,21 @@
 class Solution(object):
     def merge(self, nums1, m, nums2, n):
-        left = 0
-        right = 0
-        index = 0
-        nums3 = [0] * (m + n)  
+        # Start merging from the last index of nums1
+        i = m - 1  # Last valid element in nums1
+        j = n - 1  # Last element in nums2
+        k = m + n - 1  # Last index of merged array in nums1
 
-        while left < m and right < n:
-            if nums1[left] <= nums2[right]:
-                nums3[index] = nums1[left]
-                left += 1
+        while i >= 0 and j >= 0:
+            if nums1[i] > nums2[j]:
+                nums1[k] = nums1[i]
+                i -= 1
             else:
-                nums3[index] = nums2[right]
-                right += 1
-            index += 1
+                nums1[k] = nums2[j]
+                j -= 1
+            k -= 1
 
-        while left < m:
-            nums3[index] = nums1[left]
-            left += 1
-            index += 1
-
-        while right < n:
-            nums3[index] = nums2[right]
-            right += 1
-            index += 1
-
-        
-        for i in range(m + n):
-            nums1[i] = nums3[i]
-
-        
+        # If there are remaining elements in nums2, copy them
+        while j >= 0:
+            nums1[k] = nums2[j]
+            j -= 1
+            k -= 1
