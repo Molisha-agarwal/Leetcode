@@ -69,10 +69,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Molisha-agarwal/Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Molisha-agarwal/Leetcode/tree/master/0050-powx-n) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Molisha-agarwal/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Molisha-agarwal/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Molisha-agarwal/Leetcode/tree/master/0074-search-a-2d-matrix) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Molisha-agarwal/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
