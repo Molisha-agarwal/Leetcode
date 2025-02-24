@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Molisha-agarwal/Leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Molisha-agarwal/Leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Molisha-agarwal/Leetcode/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/Molisha-agarwal/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Molisha-agarwal/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Molisha-agarwal/Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Molisha-agarwal/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Molisha-agarwal/Leetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Molisha-agarwal/Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Math
 |  |
 | ------- |
@@ -71,5 +73,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Molisha-agarwal/Leetcode/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/Molisha-agarwal/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Molisha-agarwal/Leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
