@@ -4,6 +4,7 @@ public:
         long long ans=1;
         vector<int>ansrow;
         ansrow.push_back(1);
+        //column indexing haaa 
         for(int col=1;col<row;col++){
             ans=ans* (row-col);
             ans=ans/(col);
