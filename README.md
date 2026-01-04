@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Molisha-agarwal/Leetcode/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Molisha-agarwal/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1729-find-followers-count](https://github.com/Molisha-agarwal/Leetcode/tree/master/1729-find-followers-count) |
+| [1789-primary-department-for-each-employee](https://github.com/Molisha-agarwal/Leetcode/tree/master/1789-primary-department-for-each-employee) |
 | [1827-invalid-tweets](https://github.com/Molisha-agarwal/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Molisha-agarwal/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
